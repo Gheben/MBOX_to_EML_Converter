@@ -34,22 +34,16 @@ The application offers a user-friendly graphical interface with real-time progre
 )
 
 
-
 ## 🚀 Installation
 
 ### Prerequisites
 - Python 3.6 or higher
 - Required system libraries (generally included with Python)
 
-### Method 1: Executable (Recommended for end users)
 
-1. Download the latest release from the [releases page](https://github.com/guidoballarini/mbox-to-eml-converter/releases)
-2. Extract the ZIP file
-3. Run `MBOX_to_EML_Converter.exe`
-
-### Method 2: Python Script (For developers)
+### Method: Python Script (For developers)
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/guidoballarini/mbox-to-eml-converter.git
+git clone https://github.com/gheben/mbox-to-eml-converter.git
 cd mbox-to-eml-converter
