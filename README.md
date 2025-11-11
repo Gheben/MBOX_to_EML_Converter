@@ -30,8 +30,8 @@ The application offers a user-friendly graphical interface with real-time progre
 
 ## 🖼️ Screenshot
 
-(<img width="694" height="573" alt="image" src="https://github.com/user-attachments/assets/94a7d5a7-4b32-44c8-a12d-3a26b8acecbc" />
-)
+<img width="694" height="573" alt="image" src="https://github.com/user-attachments/assets/94a7d5a7-4b32-44c8-a12d-3a26b8acecbc" />
+
 
 
 ## 🚀 Installation
